@@ -1,1 +1,1 @@
-# JAVA_Project_Typing
+# JAVA_Project_KakaoTyping
