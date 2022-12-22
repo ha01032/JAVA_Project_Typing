@@ -6,7 +6,7 @@
 [클론코딩출처] : https://www.podo-dev.com/blogs/1
 
 ## 게임 설명
-![20221222_095818](https://user-images.githubusercontent.com/117807082/209032189-bcacc6b5-f776-4181-aba9-967e389a77ef.png)
+![20221222_095818](https://user-images.githubusercontent.com/117807082/209032439-8752d5b3-1238-4fd2-aa8a-55b590b797d2.png)
 
 **카카오 타이핑** : 자바 스윙을 기반으로 작성. 코딩 복습용 프로그램으로서, "산성비"게임에 기반을 두고 있다. 코딩 타자 연습 뿐 아니라, 본인이 추가한 복습 내용을 다질 수도 있는 프로그램이다.
 
