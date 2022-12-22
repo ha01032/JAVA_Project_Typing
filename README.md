@@ -28,5 +28,13 @@
 
 
 ## 해당 파일의 동작 원리
+Lang : Java 11.0.2 version  
+IDE : Eclipse  
+Java-Swing : GUI 구현  
+Java-Audio : 배경음, 효과음 컨트롤  
+Thread : 산성비 구현.  
+File : 랭킹, 단어 읽기 및 쓰기  
+Strcuture : View, Logic 분리 구현.  
+
 
 
