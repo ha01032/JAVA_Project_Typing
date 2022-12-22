@@ -33,6 +33,7 @@ File : 랭킹, 단어 읽기 및 쓰기
 Strcuture : View, Logic 분리 구현.  
 
 ### 클래스간의 연결고리
+![크기변환 20221222_175342](https://user-images.githubusercontent.com/117807082/209096886-d2e03007-52f9-4241-9725-5fca84a3bbd7.png)
 
 
 
